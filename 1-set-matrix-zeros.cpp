@@ -22,7 +22,6 @@ void setZeros(vector<vector<int>> &matrix)
 			}
 		}
 	}
-
 }
 
 int main() {
