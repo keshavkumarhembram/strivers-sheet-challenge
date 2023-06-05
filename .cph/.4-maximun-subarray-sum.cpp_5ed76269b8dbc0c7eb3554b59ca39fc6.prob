@@ -1,0 +1,1 @@
+{"name":"Local: 4-maximun-subarray-sum","url":"e:\\Learning\\stivers-sheet-challenge\\4-maximun-subarray-sum.cpp","tests":[{"id":1685983886960,"input":"9\n1 2 7 -4 3 2 -10 9 1","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Learning\\stivers-sheet-challenge\\4-maximun-subarray-sum.cpp","group":"local","local":true}
