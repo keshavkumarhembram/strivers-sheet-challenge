@@ -1,0 +1,1 @@
+{"name":"Local: 6-buy-sell-stock","url":"e:\\Learning\\stivers-sheet-challenge\\6-buy-sell-stock.cpp","tests":[{"id":1686012103832,"input":"2\n6\n17 20 11 9 12 6\n4\n98 101 66 72\n","output":"3\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Learning\\stivers-sheet-challenge\\6-buy-sell-stock.cpp","group":"local","local":true}
