@@ -82,6 +82,8 @@ vector<int> nextPermutation(vector<int> &permutation, int n)
     
 }
 
+// next_permutation can also be used from algorihtm header
+
 int main() {
     int t;
     cin >> t;
